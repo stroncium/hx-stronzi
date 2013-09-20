@@ -1,0 +1,11 @@
+{
+  "name": "stronzi",
+  "url" : "https://github.com/stroncium/hx-stronzi",
+  "license": "MIT",
+  "tags": ["cross", "macro"],
+  "description": "Various useful stuff which is too small to be a separate library.",
+  "version": "0.0.1",
+  "releasenote": "Initial release. stronzi.FakeEnum",
+  "contributors": ["stroncium"],
+  "dependencies": {}
+}
